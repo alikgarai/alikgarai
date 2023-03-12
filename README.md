@@ -7,8 +7,9 @@
 
 💡 &nbsp;I'm a Software Developer who has spent 6+ years building APIs for Credit Cards in Goldman Sachs.\
 🎓 &nbsp;I'm an alumnus of [MIT WPU, Pune](https://mitwpu.edu.in/). \
-🌱 &nbsp;I love to code, chess, cook and workout. \
+🌱 &nbsp;I love to code, chess, cook and workout.
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/alikgarai?theme=dark&border=0&ext=heatmap)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
