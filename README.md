@@ -40,10 +40,12 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 ### If you like what I do
 <a href="https://www.buymeacoffee.com/garaialik247" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me Chai" width="150" ></a>
 
+<hr>
 
 <!--START_SECTION:waka-->
 
