@@ -8,7 +8,6 @@
 🌱 &nbsp;I love to code, chess, cook and workout.
 
 [![Alik's github stats](https://github-readme-stats.vercel.app/api?username=alikgarai&hide=contribs&text_bold=false&show_icons=true&theme=chartreuse-dark&hide_border=true)](https://github.com/alikgarai) &nbsp;&nbsp;
-<a href="https://github.com/tomchen/animated-svg-clock" title="Time spent here!"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="170px" height="170px"></a> &nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikgarai&layout=compact&theme=chartreuse-dark)](https://github.com/alikgarai/github-readme-stats)
 
 <hr>
