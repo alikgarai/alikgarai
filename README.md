@@ -1,4 +1,3 @@
-
 ## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Alik
 ![profile count](https://komarev.com/ghpvc/?username=alikgarai&color=red)&nbsp;
 [![GitHub alikgarai](https://img.shields.io/github/followers/alikgarai?label=follow&style=social)](https://github.com/alikgarai)&nbsp;
@@ -11,7 +10,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikgarai&layout=compact&theme=chartreuse-dark)](https://github.com/alikgarai/github-readme-stats)
 
 <hr>
-<!-- [![Alik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garaialik247)](https://github.com/alikgarai/github-readme-stats) -->
 
 <p>
   <a href="https://leetcode.com/alikgarai" title="Leetcode Profile!"><img align="left" src="https://leetcard.jacoblin.cool/alikgarai?theme=dark&ext=heatmap"/></a>
@@ -65,3 +63,8 @@ Other   7 mins          >>>>>>>>>>>>>>>>---------   62.28 %
 ```
 
 <!--END_SECTION:waka-->
+
+<!-- Resources
+svg images - https://www.svgrepo.com/vectors/postman/
+wakatime - https://github.com/marketplace/actions/waka-readme
+Awesome github profiles - https://zzetao.github.io/awesome-github-profile/ -->
