@@ -55,14 +55,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 March 2023 - To: 22 July 2023
+From: 12 March 2023 - To: 23 July 2023
 
-Total Time: 7 hrs 38 mins
+Total Time: 7 hrs 52 mins
 
-Java       6 hrs 26 mins   >>>>>>>>>>>>>>>>>>>>>----   84.25 %
-Markdown   58 mins         >>>----------------------   12.85 %
-Other      10 mins         >------------------------   02.29 %
-XML        2 mins          -------------------------   00.62 %
+Java       6 hrs 40 mins   >>>>>>>>>>>>>>>>>>>>>----   84.71 %
+Markdown   58 mins         >>>----------------------   12.47 %
+Other      10 mins         >------------------------   02.22 %
+XML        2 mins          -------------------------   00.60 %
 ```
 
 <!--END_SECTION:waka-->
