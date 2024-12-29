@@ -55,18 +55,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 March 2023 - To: 26 December 2024
+From: 12 March 2023 - To: 27 December 2024
 
-Total Time: 12 hrs 44 mins
+Total Time: 13 hrs 27 mins
 
-Java             10 hrs 52 mins  >>>>>>>>>>>>>>>>>>>>>----   85.45 %
-Markdown         1 hr 5 mins     >>-----------------------   08.52 %
-GitIgnore file   19 mins         >------------------------   02.55 %
-Other            10 mins         -------------------------   01.37 %
-XML              8 mins          -------------------------   01.17 %
-IDEA_MODULE      4 mins          -------------------------   00.54 %
-JSON             2 mins          -------------------------   00.38 %
-JavaScript       0 secs          -------------------------   00.02 %
+Java             10 hrs 52 mins  >>>>>>>>>>>>>>>>>>>>-----   80.89 %
+Markdown         1 hr 5 mins     >>-----------------------   08.08 %
+TypeScript       26 mins         >------------------------   03.29 %
+GitIgnore file   19 mins         >------------------------   02.41 %
+TSConfig         14 mins         -------------------------   01.83 %
+Other            10 mins         -------------------------   01.30 %
+XML              8 mins          -------------------------   01.10 %
+IDEA_MODULE      4 mins          -------------------------   00.51 %
+JSON             3 mins          -------------------------   00.40 %
+CSS              0 secs          -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
