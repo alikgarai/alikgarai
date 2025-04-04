@@ -55,15 +55,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 March 2023 - To: 01 April 2025
+From: 12 March 2023 - To: 02 April 2025
 
 Total Time: 16 hrs 18 mins
 
-Java             12 hrs 52 mins  >>>>>>>>>>>>>>>>>>>>-----   79.00 %
-Markdown         1 hr 7 mins     >>-----------------------   06.95 %
+Java             12 hrs 53 mins  >>>>>>>>>>>>>>>>>>>>-----   79.00 %
+Markdown         1 hr 7 mins     >>-----------------------   06.94 %
 TypeScript       42 mins         >------------------------   04.32 %
 CSS              22 mins         >------------------------   02.30 %
-GitIgnore file   19 mins         >------------------------   02.01 %
+GitIgnore file   19 mins         >------------------------   02.00 %
 TSConfig         14 mins         -------------------------   01.51 %
 Other            10 mins         -------------------------   01.07 %
 XML              8 mins          -------------------------   00.91 %
